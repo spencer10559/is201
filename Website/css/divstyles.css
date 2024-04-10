@@ -1,0 +1,35 @@
+/*postioning styles*/
+.common{
+    position: absolute;
+    /*border: solid 5px rgb(9, 9, 9);
+    padding: 2px;
+    background-color: beige; */
+}
+.bottom{
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+    font-style: italic;
+    font-size: small;
+    background-color: lightcyan;
+}
+.top{
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+
+}
+.content{
+    top: 100px;
+    left: 0px;
+    right: 0px;
+    height: 100%;
+}
+.nav{
+    position: relative;
+    float: right;
+    z-index: 1;
+}

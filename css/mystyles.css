@@ -1,0 +1,19 @@
+body{
+    font-family: chiller;
+}
+.site-heading-lower{
+    font-family: chiller;
+}
+.mb-3{
+    font-family: chiller;
+    color: yellow !important;
+}
+.notyellow{
+    color: black !important;
+}
+.intro-text{
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+.section-heading-lower{
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
